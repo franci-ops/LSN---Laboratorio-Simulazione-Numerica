@@ -21,7 +21,7 @@ Laboratorio-di-Simulazione-Numerica-LSN-
 ```
 
 - GenRandom/: Contiene il generatore di numeri casuali (necessario per il funzionamento delle lezioni 1, 2, 3, 8, 9 e 10).
-- LezioneXX/: Cartelle dedicate alle singole lezioni. Ciascuna contiene le sottocartelle dei relativi esercizi (EsercizioXX.Y/) e il Jupyter Notebook con l'analisi dei risultati.
+- LezioneXX/: Cartelle dedicate alle singole lezioni. Ciascuna contiene le sottocartelle dei relativi esercizi (XX.Y/) e il Jupyter Notebook con l'analisi dei risultati.
 
 ## Argomenti Trattati
 
