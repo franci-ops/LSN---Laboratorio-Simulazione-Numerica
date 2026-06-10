@@ -3,12 +3,19 @@
 Questo repository raccoglie tutte le esercitazioni svolte durante il corso di Laboratorio di Simulazione Numerica. Ogni cartella è dedicata a una specifica lezione e include i codici in C++ (dove richiesti), i notebook Jupyter per l'analisi dei dati ed eventuali file input.
 
 ## Struttura del Repository
-
+```text
 Laboratorio-di-Simulazione-Numerica-LSN-
 ├── GenRandom/
 ├── Lezione01/
 ├── Lezione02/
-...
+├── Lezione03/
+├── Lezione04/
+├── Lezione06/
+├── Lezione07/
+├── Lezione08/
+├── Lezione09/
+├── Lezione10/
+├── Lezione11/
 ├── Lezione12/
 └── README.md
 
