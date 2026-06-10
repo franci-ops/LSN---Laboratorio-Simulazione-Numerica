@@ -47,7 +47,7 @@ Per compilare ed eseguire i programmi in C++, seguire questi passaggi:
 3. Compilare il codice sorgente tramite il comando:
 make
 4. Eseguire l'eseguibile generato:
-./EsercizioXX_Y.exe
+   ./XX.Y.exe
 
 ### Note Particolari e Comandi Aggiuntivi
 * Lezioni 11 e 12: Queste unità non contengono codice C++. Il lavoro si concentra esclusivamente sull'analisi dei dati e sulla costruzione dei modelli tramite i notebook Jupyter.
