@@ -18,12 +18,13 @@ Laboratorio-di-Simulazione-Numerica-LSN-
 ├── Lezione11/
 ├── Lezione12/
 └── README.md
+```
 
 - GenRandom/: Contiene il generatore di numeri casuali (necessario per il funzionamento delle lezioni 1, 2, 3, 8, 9 e 10).
 - LezioneXX/: Cartelle dedicate alle singole lezioni. Ciascuna contiene le sottocartelle dei relativi esercizi (EsercizioXX.Y/) e il Jupyter Notebook con l'analisi dei risultati.
 
 ## Argomenti Trattati
-
+```
 | Lezione | Argomenti |
 | --- | --- |
 | 01 | Metodi Monte Carlo e tecnica del data blocking |
@@ -37,7 +38,7 @@ Laboratorio-di-Simulazione-Numerica-LSN-
 | 10 | Algoritmi genetici e tecniche di parallelizzazione |
 | 11 | Introduzione alle reti neurali |
 | 12 | Reti neurali profonde (DNN) e convoluzionali (CNN) |
-
+```
 
 ## Compilazione ed Esecuzione
 
