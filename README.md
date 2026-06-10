@@ -25,17 +25,17 @@ Laboratorio-di-Simulazione-Numerica-LSN-
 
 ## Argomenti Trattati
 
-| 01 | Metodi Monte Carlo e tecnica del data blocking 
-| 02 | Importance sampling e random walk 
-| 03 | Integrazione stocastica e valutazione di opzioni finanziarie 
-| 04 | Dinamica molecolare 
-| 06 | Modello di Ising 
-| 07 | Dinamica molecolare e tail corrections 
-| 08 | Monte Carlo Variazionale e Simulated Annealing 
-| 09 | Problema del commesso viaggiatore (TSP) e algoritmi genetici 
-| 10 | Algoritmi genetici e tecniche di parallelizzazione 
-| 11 | Introduzione alle reti neurali 
-| 12 | Reti neurali profonde (DNN) e convoluzionali (CNN) 
+- 01 | Metodi Monte Carlo e tecnica del data blocking 
+- 02 | Importance sampling e random walk 
+- 03 | Integrazione stocastica e valutazione di opzioni finanziarie 
+- 04 | Dinamica molecolare 
+- 06 | Modello di Ising 
+- 07 | Dinamica molecolare e tail corrections 
+- 08 | Monte Carlo Variazionale e Simulated Annealing 
+- 09 | Problema del commesso viaggiatore (TSP) e algoritmi genetici 
+- 10 | Algoritmi genetici e tecniche di parallelizzazione 
+- 11 | Introduzione alle reti neurali 
+- 12 | Reti neurali profonde (DNN) e convoluzionali (CNN) 
 
 
 ## Compilazione ed Esecuzione
