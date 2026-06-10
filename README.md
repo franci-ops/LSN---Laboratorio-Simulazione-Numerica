@@ -5,18 +5,18 @@ Questo repository raccoglie tutte le esercitazioni svolte durante il corso di La
 ## Struttura del Repository
 ```text
 Laboratorio-di-Simulazione-Numerica-LSN-
-├── GenRandom/
-├── Lezione01/
-├── Lezione02/
-├── Lezione03/
-├── Lezione04/
-├── Lezione06/
-├── Lezione07/
-├── Lezione08/
-├── Lezione09/
-├── Lezione10/
-├── Lezione11/
-├── Lezione12/
+├── Lezione 1/
+├── Lezione 2/
+├── Lezione 3/
+├── Lezione 4/
+├── Lezione 6/
+├── Lezione 7/
+├── Lezione 8/
+├── Lezione 9/
+├── Lezione 10/
+├── Lezione 11/
+├── Lezione 12/
+├── RANDOM/
 └── README.md
 ```
 
